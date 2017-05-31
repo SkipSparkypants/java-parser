@@ -1,0 +1,3 @@
+running e2c
+mustbe: want TK.NEXT, got Token(TK.ID x 3)
+can't parse: line 3 missing token (mustbe)
